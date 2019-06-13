@@ -1,0 +1,9 @@
+baseURL = "http://cs.utexas.edu/~ganderso/"
+languageCode = "en-us"
+author = "Greg Anderson"
+title = "Greg Anderson"
+theme = "hyde-hyde"
+
+[params]
+    author = "Greg Anderson"
+    authorimage = "img/me.jpg"
