@@ -1,4 +1,5 @@
 baseURL = "http://cs.utexas.edu/~ganderso/"
+canonifyURLs = true
 languageCode = "en-us"
 author = "Greg Anderson"
 title = "Greg Anderson"
@@ -7,3 +8,23 @@ theme = "hyde-hyde"
 [params]
     author = "Greg Anderson"
     authorimage = "img/me.jpg"
+    postNavigation = false
+
+    copyright = "Greg Anderson"
+    showBuiltWith = true
+
+[params.social]
+    github = "gavlegoat"
+    email = "ganderso@cs.utexas.edu"
+
+[[menu.main]]
+    name = "Publications"
+    weight = 200
+    identifier = "publications"
+    url = "/publications/"
+
+[[menu.main]]
+    name = "About"
+    weight = 100
+    identifier = "about"
+    url = "/"
