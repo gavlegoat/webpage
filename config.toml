@@ -1,4 +1,4 @@
-baseURL = "http://cs.utexas.edu/~ganderso/"
+baseURL = "https://gavlegoat.github.io/"
 canonifyURLs = true
 languageCode = "en-us"
 author = "Greg Anderson"
