@@ -12,5 +12,5 @@ Paper). Tool available [here](https://github.com/gavlegoat/charon).
 Xinyu Wang, Greg Anderson, Isil Dillig, Ken McMillan. At CAV'18.
 
 Formal Analysis of the Compact Position Reporting Algorithm. Aaron Dutle,
-Mariano Moscato, Laura Titolo, C&eaccute;sar Mu&ntilde;oz, Gregory Anderson,
+Mariano Moscato, Laura Titolo, C&eacute;sar Mu&ntilde;oz, Gregory Anderson,
 and Fran&ccedil;ois Bobot. Formal Aspects of Computing. 2020.
