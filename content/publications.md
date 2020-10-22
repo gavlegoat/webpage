@@ -3,6 +3,11 @@ title: "Publications"
 date: 2019-06-14T11:06:23-05:00
 ---
 
+[Neurosymbolic Reinforcement Learning with Formally Verified
+Exploration](/papers/revel-neurips2020.pdf). Greg Anderson, Abhinav Verma, Isil
+Dillig, Swarat Chaudhuri. At NeurIPS '20. Tool available
+[here](https://github.com/gavlegoat/safe-learning).
+
 [Optimization and Abstraction: A Synergistic Approach for Analyzing Neural
 Network Robustness](/papers/charon-pldi-19.pdf). Greg Anderson,
 Shankara Pailoor, Isil Dillig, and Swarat Chaudhuri. At PLDI'19 (Distinguished
