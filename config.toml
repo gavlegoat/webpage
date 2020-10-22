@@ -1,21 +1,34 @@
 baseURL = "https://gavlegoat.github.io/"
 canonifyURLs = true
-languageCode = "en-us"
+languagecode = "en"
 author = "Greg Anderson"
 title = "Greg Anderson"
-theme = "hyde-hyde"
+theme = "hugo-coder"
+defaultcontentlanguage = "en"
+paginate = 20
 
 [params]
     author = "Greg Anderson"
-    authorimage = "img/me.jpg"
-    postNavigation = false
+    description = "Greg Anderson personal site"
+    info = "PhD Student at UT Austin"
+    avatarurl = "img/me.jpg"
+    hidefooter = true
+    hidecredits = false
+    hidecopyright = false
+    rtl = false
+    colorscheme = "auto"
 
-    copyright = "Greg Anderson"
-    showBuiltWith = true
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/gavlegoat/"
 
-[params.social]
-    github = "gavlegoat"
-    email = "ganderso@cs.utexas.edu"
+[[params.social]]
+    name = "Email"
+    icon = "fa fa-envelope"
+    weight = 2
+    url = "mailto:ganderso@cs.utexas.edu"
 
 [[menu.main]]
     name = "Publications"
@@ -27,7 +40,7 @@ theme = "hyde-hyde"
     name = "About"
     weight = 100
     identifier = "about"
-    url = "/"
+    url = "/about/"
 
 [[menu.main]]
     name = "Research"
