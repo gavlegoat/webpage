@@ -6,7 +6,7 @@ date: 2019-06-14
 # About
 
 I'm a 3<sup>rd</sup> year PhD student at [UT Austin](http://www.utexas.edu)'s
-[UToPiA](http://utopia.cs.utexas.edu) group, advised by [Isil
+[UToPiA](http://utopia.cs.utexas.edu) and Trishul groups, advised by [Isil
 Dillig](http://www.cs.utexas.edu/~isil) and [Swarat
 Chaudhuri](http://www.cs.utexas.edu/~swarat). My research focuses on the
 intersection of program analysis and machine learning. Specifically, I'm
