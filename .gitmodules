@@ -1,7 +1,6 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:gavlegoat/gavlegoat.github.io.git
-	branch = master
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder
+[submodule "public"]
+	path = public
+	url = https://github.com/gavlegoat/gavlegoat.github.io.git
