@@ -47,3 +47,9 @@ paginate = 20
     weight = 150
     identifier = "research"
     url = "/research/"
+
+[[menu.main]]
+    name = "CS342"
+    weight = 300
+    identifier = "cs342"
+    url = "/cs342/"
