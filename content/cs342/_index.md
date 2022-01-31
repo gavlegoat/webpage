@@ -32,46 +32,46 @@ This calendar should be considered tentative. While we plan to stick to this
 schedule as closely as possible, we may delay or reorder topics as issues come
 up during the semester. The homework due dates will not be moved earlier.
 
-| Date   | Topic                                             | Exercise                          | Resources                                                                             |
-|:------:|---------------------------------------------------|-----------------------------------|---------------------------------------------------------------------------------------|
-| 1/19   | Introduction, background                          |                                   | [Slides](/cs342-lectures/lecture01.pdf)                                               |
-| 1/24   | Background - Tensors, broadcasting                | [KNN](/cs342-exercises/knn.ipynb) | [Slides](/cs342-lectures/lecture02.pdf), [Notebook](/cs342-notebooks/lecture02.ipynb) |
-| 1/26   | Background - Probability                          | [KNN](/cs342-exercises/knn.ipynb) | [Slides](/cs342-lectures/lecture03.pdf)                                               |
-| 1/31   | Models - Linear, computation graphs               | Linear classifier                 |                                                                                       |
-| 2/2    | Training - Optimization, loss                     | Linear classifier                 |                                                                                       |
-| 2/7    | Models - Nonlinearities                           | MLP                               |                                                                                       |
-| 2/9    | Models - Layers, activation, hyperparameters      | MLP                               |                                                                                       |
-| *2/13* | **HW1 is due at 11:59 PM**                        |                                   | [Assignment](/cs342/homework1/)                                                       |
-| 2/14   | CNN - Convolution, pooling                        | CNN                               |                                                                                       |
-| 2/16   | CNN - Receptive field, principles                 | CNN                               |                                                                                       |
-| 2/21   | CNN - Structure of data                           | CNN Blocks                        |                                                                                       |
-| 2/23   | CNN - Dilation, upconvolution                     | CNN Blocks                        |                                                                                       |
-| *2/27* | **HW2 is due at 11:59 PM**                        |                                   |                                                                                       |
-| 2/28   | Pracitcalities - Normalization, dataset splitting | Image generation                  |                                                                                       |
-| 3/2    | Practicalities - Learning rate, initialization    | Image generation                  |                                                                                       |
-| 3/7    | Practicalities - ResNets, Overfitting             | Binary segment.                   |                                                                                       |
-| 3/9    | Practicalities - Overfitting                      | Binary segment.                   |                                                                                       |
-| *3/10* | **HW3 is due at 11:59 PM**                        |                                   |                                                                                       |
-| 3/14   | Spring break                                      |                                   |                                                                                       |
-| 3/16   | Spring break                                      |                                   |                                                                                       |
-| 3/21   | Vision - Classification                           | Keypoint est.                     |                                                                                       |
-| 3/23   | Vision - Object detection                         | Keypoint est.                     |                                                                                       |
-| 3/28   | Vision - Segmentation                             | Keypoint est. 2                   |                                                                                       |
-| 3/30   | Vision - Temporal models                          | Keypoint est. 2                   |                                                                                       |
-| *4/3*  | **HW4 is due at 11:59 PM**                        |                                   |                                                                                       |
-| 4/4    | RL - Imitation learning                           | Imitation                         |                                                                                       |
-| 4/6    | RL - Policy gradients, gradient free optimization | Imitation                         |                                                                                       |
-| 4/11   | Sequence - RNN, LSTM, GRU                         | Imitation 2                       |                                                                                       |
-| 4/13   | Sequence - Temporal conv., WaveNet                | Imitation 2                       |                                                                                       |
-| *4/17* | **HW5 is due at 11:59 PM**                        |                                   |                                                                                       |
-| 4/18   | Special topics                                    | RL                                |                                                                                       |
-| 4/20   | Special topics                                    | RL                                |                                                                                       |
-| 4/25   | Special topics                                    |                                   |                                                                                       |
-| 4/27   | Special topics                                    |                                   |                                                                                       |
-| 5/2    | Final presentations                               |                                   |                                                                                       |
-| 5/4    | Final presentations                               |                                   |                                                                                       |
-| *5/8*  | **Final project, makeup homework due at 11:59**   |                                   |                                                                                       |
-| 5/13   | Tentative exam period -- maybe unused             |                                   |                                                                                       |
+| Date   | Topic                                           | Exercise                                           | Resources                                                                             |
+|:------:|-------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------------------------------|
+| 1/19   | Introduction, background                        |                                                    | [Slides](/cs342-lectures/lecture01.pdf)                                               |
+| 1/24   | Background - Tensors, broadcasting              | [KNN](/cs342-exercises/knn.ipynb)                  | [Slides](/cs342-lectures/lecture02.pdf), [Notebook](/cs342-notebooks/lecture02.ipynb) |
+| 1/26   | Background - Probability                        | [KNN](/cs342-exercises/knn.ipynb)                  | [Slides](/cs342-lectures/lecture03.pdf)                                               |
+| 1/31   | Models - Linear, computation graphs             | [Linear classifier](/cs342-exercises/linear.ipynb) | [Slides](/cs342-lectures/lecture04.pdf), [Notebook](/cs342-notebooks/lecture04.ipynb) |
+| 2/2    | Training - Optimization, loss                   | [Linear classifier](/cs342-exercises/linear.ipynb) |                                                                                       |
+| 2/7    | Models - Nonlinearities                         | MLP                                                |                                                                                       |
+| 2/9    | Models - Layers, activation, hyperparameters    | MLP                                                |                                                                                       |
+| *2/13* | **HW1 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework1/)                                                       |
+| 2/14   | CNN - Convolution, pooling                      | CNN                                                |                                                                                       |
+| 2/16   | CNN - Receptive field, principles               | CNN                                                |                                                                                       |
+| 2/21   | CNN - Structure of data                         | CNN Blocks                                         |                                                                                       |
+| 2/23   | CNN - Dilation, upconvolution                   | CNN Blocks                                         |                                                                                       |
+| *2/27* | **HW2 is due at 11:59 PM**                      |                                                    |                                                                                       |
+| 2/28   | Pracitcalities - Normalization, data splitting  | Image generation                                   |                                                                                       |
+| 3/2    | Practicalities - Learning rate, initialization  | Image generation                                   |                                                                                       |
+| 3/7    | Practicalities - ResNets, Overfitting           | Binary segment.                                    |                                                                                       |
+| 3/9    | Practicalities - Overfitting                    | Binary segment.                                    |                                                                                       |
+| *3/10* | **HW3 is due at 11:59 PM**                      |                                                    |                                                                                       |
+| 3/14   | Spring break                                    |                                                    |                                                                                       |
+| 3/16   | Spring break                                    |                                                    |                                                                                       |
+| 3/21   | Vision - Classification                         | Keypoint est.                                      |                                                                                       |
+| 3/23   | Vision - Object detection                       | Keypoint est.                                      |                                                                                       |
+| 3/28   | Vision - Segmentation                           | Keypoint est. 2                                    |                                                                                       |
+| 3/30   | Vision - Temporal models                        | Keypoint est. 2                                    |                                                                                       |
+| *4/3*  | **HW4 is due at 11:59 PM**                      |                                                    |                                                                                       |
+| 4/4    | RL - Imitation learning                         | Imitation                                          |                                                                                       |
+| 4/6    | RL - Policy gradients, gradient free optim.     | Imitation                                          |                                                                                       |
+| 4/11   | Sequence - RNN, LSTM, GRU                       | Imitation 2                                        |                                                                                       |
+| 4/13   | Sequence - Temporal conv., WaveNet              | Imitation 2                                        |                                                                                       |
+| *4/17* | **HW5 is due at 11:59 PM**                      |                                                    |                                                                                       |
+| 4/18   | Special topics                                  | RL                                                 |                                                                                       |
+| 4/20   | Special topics                                  | RL                                                 |                                                                                       |
+| 4/25   | Special topics                                  |                                                    |                                                                                       |
+| 4/27   | Special topics                                  |                                                    |                                                                                       |
+| 5/2    | Final presentations                             |                                                    |                                                                                       |
+| 5/4    | Final presentations                             |                                                    |                                                                                       |
+| *5/8*  | **Final project, makeup homework due at 11:59** |                                                    |                                                                                       |
+| 5/13   | Tentative exam period -- maybe unused           |                                                    |                                                                                       |
 
 ## Grading
 
