@@ -40,7 +40,7 @@ up during the semester. The homework due dates will not be moved earlier.
 | 1/31   | Models - Linear, computation graphs             | [Linear classifier](/cs342-exercises/linear.ipynb) | [Slides](/cs342-lectures/lecture04.pdf), [Notebook](/cs342-notebooks/lecture04.ipynb) |
 | 2/2    | Training - Optimization, loss                   | [Linear classifier](/cs342-exercises/linear.ipynb) | [Slides](/cs342-lectures/lecture05.pdf)                                               |
 | 2/7    | Models - Nonlinearities                         | [MLP](/cs342-exercises/mlp.ipynb)                  | [Slides](/cs342-lectures/lecture06.pdf)                                               |
-| 2/9    | Models - Layers, activation, hyperparameters    | [MLP](/cs342-exercises/mlp.ipynb)                  |                                                                                       |
+| 2/9    | Models - Layers, activation, hyperparameters    | [MLP](/cs342-exercises/mlp.ipynb)                  | [Slides](/cs342-lectures/lecture07.pdf), [Supplement](/cs342-lectures/l07-supp.pdf)   |
 | *2/13* | **HW1 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework1/)                                                       |
 | 2/14   | CNN - Convolution, pooling                      | CNN                                                |                                                                                       |
 | 2/16   | CNN - Receptive field, principles               | CNN                                                |                                                                                       |
