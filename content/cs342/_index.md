@@ -42,11 +42,11 @@ up during the semester. The homework due dates will not be moved earlier.
 | 2/7    | Models - Nonlinearities                         | [MLP](/cs342-exercises/mlp.ipynb)                  | [Slides](/cs342-lectures/lecture06.pdf)                                               |
 | 2/9    | Models - Layers, activation, hyperparameters    | [MLP](/cs342-exercises/mlp.ipynb)                  | [Slides](/cs342-lectures/lecture07.pdf), [Supplement](/cs342-lectures/l07-supp.pdf)   |
 | *2/13* | **HW1 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework1/)                                                       |
-| 2/14   | CNN - Convolution, pooling                      | CNN                                                |                                                                                       |
-| 2/16   | CNN - Receptive field, principles               | CNN                                                |                                                                                       |
+| 2/14   | CNN - Convolution, pooling                      | [CNN](/cs342-exercises/cnn.ipynb)                  | [Slides](/cs342-lectures/lecture08.pdf)                                               |
+| 2/16   | CNN - Receptive field, principles               | [CNN](/cs342-exercises/cnn.ipynb)                  |                                                                                       |
 | 2/21   | CNN - Structure of data                         | CNN Blocks                                         |                                                                                       |
 | 2/23   | CNN - Dilation, upconvolution                   | CNN Blocks                                         |                                                                                       |
-| *2/27* | **HW2 is due at 11:59 PM**                      |                                                    |                                                                                       |
+| *2/27* | **HW2 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework2/)                                                       |
 | 2/28   | Pracitcalities - Normalization, data splitting  | Image generation                                   |                                                                                       |
 | 3/2    | Practicalities - Learning rate, initialization  | Image generation                                   |                                                                                       |
 | 3/7    | Practicalities - ResNets, Overfitting           | Binary segment.                                    |                                                                                       |
