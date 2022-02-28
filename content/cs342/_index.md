@@ -47,10 +47,10 @@ up during the semester. The homework due dates will not be moved earlier.
 | 2/21   | CNN - Dilation, upconvolution, ResNets          | [CNN Blocks](/cs342-exercises/resnet.ipynb)        | [Slides](/cs342-lectures/lecture10.pdf), [Supplement](/cs342-notebooks/visualization.zip) |
 | 2/23   | Practicalities - Data splitting, Initialization | [CNN Blocks](/cs342-exercises/resnet.ipynb)        | [Slides](/cs342-lectures/lecture11.pdf), [Supplement](/cs342-lectures/l11-supp.pdf), [Notebook](/cs342-notebooks/lecture11.ipynb) |
 | *2/27* | **HW2 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework2/)                                                       |
-| 2/28   | Pracitcalities - Normalization                  | Image generation                                   |                                                                                       |
-| 3/2    | Practicalities - Normalization, Learning rate   | Image generation                                   |                                                                                       |
-| 3/7    | Practicalities - Optimization algorithms        | Binary segment.                                    |                                                                                       |
-| 3/9    | Practicalities - Overfitting                    | Binary segment.                                    |                                                                                       |
+| 2/28   | Pracitcalities - Normalization                  | [Image gen.](/cs342-exercises/generation.ipynb)    | [Slides](/cs342-lectures/lecture12.pdf), [Notebook](/cs342-notebooks/lecture12.ipynb) |
+| 3/2    | Practicalities - Overfitting                    | [Image gen.](/cs342-exercises/generation.ipynb)    |                                                                                       |
+| 3/7    | Practicalities - Overfitting                    | Binary segment.                                    |                                                                                       |
+| 3/9    | Practicalities - Learning rate, Optim Algorithms| Binary segment.                                    |                                                                                       |
 | *3/10* | **HW3 is due at 11:59 PM**                      |                                                    |                                                                                       |
 | 3/14   | Spring break                                    |                                                    |                                                                                       |
 | 3/16   | Spring break                                    |                                                    |                                                                                       |
