@@ -51,9 +51,9 @@ up during the semester. The homework due dates will not be moved earlier.
 | 3/2    | Practicalities - Overfitting                    | [Image gen.](/cs342-exercises/generation.ipynb)    | [Slides](/cs342-lectures/lecture13.pdf), [Notebook](/cs342-notebooks/lecture13.ipynb) |
 | 3/7    | Practicalities - Overfitting                    | Binary segment.                                    |                                                                                       |
 | 3/9    | Practicalities - Learning rate, Optim Algorithms| Binary segment.                                    |                                                                                       |
-| *3/10* | **HW3 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework3/)                                                       |
 | 3/14   | Spring break                                    |                                                    |                                                                                       |
 | 3/16   | Spring break                                    |                                                    |                                                                                       |
+| *3/20* | **HW3 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework3/)                                                       |
 | 3/21   | Vision - Classification                         | Keypoint est.                                      |                                                                                       |
 | 3/23   | Vision - Object detection                       | Keypoint est.                                      |                                                                                       |
 | 3/28   | Vision - Segmentation                           | Keypoint est. 2                                    |                                                                                       |
