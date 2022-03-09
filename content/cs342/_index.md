@@ -50,7 +50,7 @@ up during the semester. The homework due dates will not be moved earlier.
 | 2/28   | Pracitcalities - Normalization                  | [Image gen.](/cs342-exercises/generation.ipynb)    | [Slides](/cs342-lectures/lecture12.pdf), [Notebook](/cs342-notebooks/lecture12.ipynb) |
 | 3/2    | Practicalities - Overfitting                    | [Image gen.](/cs342-exercises/generation.ipynb)    | [Slides](/cs342-lectures/lecture13.pdf), [Notebook](/cs342-notebooks/lecture13.ipynb) |
 | 3/7    | Practicalities - Overfitting                    | [Binary segment.](/cs342-exercises/segment.ipynb)  | [Slides](/cs342-lectures/lecture14.pdf)                                               |
-| 3/9    | Practicalities - Learning rate, Optim Algorithms| [Binary segment.](/cs342-exercises/segment.ipynb)  |                                                                                       |
+| 3/9    | Practicalities - Learning rate, Optim Algorithms| [Binary segment.](/cs342-exercises/segment.ipynb)  | [Slides](/cs342-lectures/lecture15.pdf), [Notebook](/cs342-notebooks/lecture15.ipynb) |
 | 3/14   | Spring break                                    |                                                    |                                                                                       |
 | 3/16   | Spring break                                    |                                                    |                                                                                       |
 | *3/20* | **HW3 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework3/)                                                       |
