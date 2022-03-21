@@ -54,10 +54,10 @@ up during the semester. The homework due dates will not be moved earlier.
 | 3/14   | Spring break                                    |                                                    |                                                                                       |
 | 3/16   | Spring break                                    |                                                    |                                                                                       |
 | *3/20* | **HW3 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework3/)                                                       |
-| 3/21   | Vision - Classification                         | Keypoint est.                                      |                                                                                       |
-| 3/23   | Vision - Object detection                       | Keypoint est.                                      |                                                                                       |
-| 3/28   | Vision - Segmentation                           | Keypoint est. 2                                    |                                                                                       |
-| 3/30   | Vision - Temporal models                        | Keypoint est. 2                                    |                                                                                       |
+| 3/21   | Vision - Classification                         | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   | [Slides](/cs342-lectures/lecture16.pdf)                                               |
+| 3/23   | Vision - Object detection                       | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   |                                                                                       |
+| 3/28   | Vision - Segmentation                           | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   |                                                                                       |
+| 3/30   | Vision - Temporal models                        | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   |                                                                                       |
 | *4/3*  | **HW4 is due at 11:59 PM**                      |                                                    |                                                                                       |
 | 4/4    | RL - Imitation learning                         | Imitation                                          |                                                                                       |
 | 4/6    | RL - Policy gradients, gradient free optim.     | Imitation                                          |                                                                                       |
@@ -71,7 +71,6 @@ up during the semester. The homework due dates will not be moved earlier.
 | 5/2    | Final presentations                             |                                                    |                                                                                       |
 | 5/4    | Final presentations                             |                                                    |                                                                                       |
 | *5/8*  | **Final project, makeup homework due at 11:59** |                                                    |                                                                                       |
-| 5/13   | Tentative exam period -- maybe unused           |                                                    |                                                                                       |
 
 ## Grading
 
