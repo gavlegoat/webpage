@@ -58,7 +58,7 @@ up during the semester. The homework due dates will not be moved earlier.
 | 3/23   | Vision - Object detection                       | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   |                                                                                       |
 | 3/28   | Vision - Segmentation                           | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   |                                                                                       |
 | 3/30   | Vision - Temporal models                        | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   |                                                                                       |
-| *4/3*  | **HW4 is due at 11:59 PM**                      |                                                    |                                                                                       |
+| *4/3*  | **HW4 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework4/)                                                       |
 | 4/4    | RL - Imitation learning                         | Imitation                                          |                                                                                       |
 | 4/6    | RL - Policy gradients, gradient free optim.     | Imitation                                          |                                                                                       |
 | 4/11   | Sequence - RNN, LSTM, GRU                       | Imitation 2                                        |                                                                                       |
