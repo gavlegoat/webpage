@@ -55,7 +55,7 @@ up during the semester. The homework due dates will not be moved earlier.
 | 3/16   | Spring break                                    |                                                    |                                                                                       |
 | *3/20* | **HW3 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework3/)                                                       |
 | 3/21   | Vision - Classification                         | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   | [Slides](/cs342-lectures/lecture16.pdf)                                               |
-| 3/23   | Vision - Object detection                       | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   |                                                                                       |
+| 3/23   | Vision - Object detection                       | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   | [Slides](/cs342-lectures/lecture17.pdf)                                               |
 | 3/28   | Vision - Segmentation                           | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   |                                                                                       |
 | 3/30   | Vision - Temporal models                        | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   |                                                                                       |
 | *4/3*  | **HW4 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework4/)                                                       |
