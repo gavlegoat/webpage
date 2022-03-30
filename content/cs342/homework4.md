@@ -88,7 +88,7 @@ extractor can work with.
 
 ## Heatmap Prediction
 
-You should design a CNN model which takes an image as input and predicts a
+You should design a FCN model which takes an image as input and predicts a
 separate heatmap for each class. (That is, your output should have shape `[B,
 C, H, W]` where `B` is the batch size `C` is the number of classes, `H` is the
 height of the input and `W` is the width of the input.) Each heatmap should
