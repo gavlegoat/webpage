@@ -19,8 +19,7 @@ Zoom for the foreseeable future (see Canvas for Zoom links), but if we are able
 to come back to in-person learning, then we will meet in JGB 2.216.
 
 We will use Piazza for discussions and Canvas for homework. We will start each
-Monday class with a quiz, and then we will go through the quiz questions in
-class. After that, we'll generally use about half the class time for lecture
+Monday class with a quiz, and then we will go through the quiz questions in class. After that, we'll generally use about half the class time for lecture
 and half to start on a coding exercise related to the topics we just covered.
 The coding exercise will be done either in small groups or as a class
 discussion. On Wednesdays we will again use approximately half the class for
@@ -59,11 +58,11 @@ up during the semester. The homework due dates will not be moved earlier.
 | 3/28   | Vision - Segmentation                           | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   | [Slides](/cs342-lectures/lecture18.pdf)                                               |
 | 3/30   | Vision - Temporal models                        | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   | [Slides](/cs342-lectures/lecture19.pdf)                                               |
 | *4/3*  | **HW4 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework4/)                                                       |
-| 4/4    | RL - Imitation learning                         | Imitation                                          |                                                                                       |
-| 4/6    | RL - Policy gradients, gradient free optim.     | Imitation                                          |                                                                                       |
+| 4/4    | RL - Imitation learning                         | [Imitation](/cs342-exercises/imitation.ipynb)      | [Slides](/cs342-lectures/lecture20.pdf), [Notebook](/cs342-notebooks/lecture20.ipynb) |
+| 4/6    | RL - Policy gradients, gradient free optim.     | [Imitation](/cs342-exercises/imitation.ipynb)      |                                                                                       |
 | 4/11   | Sequence - RNN, LSTM, GRU                       | Imitation 2                                        |                                                                                       |
 | 4/13   | Sequence - Temporal conv., WaveNet              | Imitation 2                                        |                                                                                       |
-| *4/17* | **HW5 is due at 11:59 PM**                      |                                                    |                                                                                       |
+| *4/17* | **HW5 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework5/)                                                       |
 | 4/18   | Special topics                                  | RL                                                 |                                                                                       |
 | 4/20   | Special topics                                  | RL                                                 |                                                                                       |
 | 4/25   | Special topics                                  |                                                    |                                                                                       |
