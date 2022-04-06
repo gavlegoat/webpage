@@ -59,7 +59,7 @@ up during the semester. The homework due dates will not be moved earlier.
 | 3/30   | Vision - Temporal models                        | [Keypoint est.](/cs342-exercises/keypoint.ipynb)   | [Slides](/cs342-lectures/lecture19.pdf)                                               |
 | *4/3*  | **HW4 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework4/)                                                       |
 | 4/4    | RL - Imitation learning                         | [Imitation](/cs342-exercises/imitation.ipynb)      | [Slides](/cs342-lectures/lecture20.pdf), [Notebook](/cs342-notebooks/lecture20.ipynb) |
-| 4/6    | RL - Policy gradients, gradient free optim.     | [Imitation](/cs342-exercises/imitation.ipynb)      |                                                                                       |
+| 4/6    | RL - Policy gradients, gradient free optim.     | [Imitation](/cs342-exercises/imitation.ipynb)      | [Slides](/cs342-lectures/lecture21.pdf), [Notebook](/cs342-notebooks/lecture21.ipynb) |
 | 4/11   | Sequence - RNN, LSTM, GRU                       | Imitation 2                                        |                                                                                       |
 | 4/13   | Sequence - Temporal conv., WaveNet              | Imitation 2                                        |                                                                                       |
 | *4/17* | **HW5 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework5/)                                                       |
