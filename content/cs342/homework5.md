@@ -3,7 +3,7 @@ title: "Homework 5"
 date: 2022-04-04
 ---
 
-In this homework, we will implement a CNN-based vision system for an autonomous
+In this homework, we will implement a neural vision system for an autonomous
 driving agent in SuperTuxKart.
 
 This assignment, as with all of the homework assignments, should be completed
@@ -15,6 +15,10 @@ See details at the bottom of this page.
 Starter code for this assignment is provided [here](/cs342-homeworks/hw5.zip).
 For this assignment, you will also need to install python bindings for
 SuperTuxKart -- these are available in the pip package `PySuperTuxKart`.
+
+If you are using Google Colab for training, you will need a slightly different
+starter notebook than we have used for previous assignments. That notebook is
+[here](/cs342-notebooks/hw5_colab.ipynb).
 
 Note: if you are working in a Windows environment, we recommend using Anaconda
 to set up an environment for this homework. The PySuperTuxKart package has some
