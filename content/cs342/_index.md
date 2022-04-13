@@ -60,8 +60,8 @@ up during the semester. The homework due dates will not be moved earlier.
 | *4/3*  | **HW4 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework4/)                                                       |
 | 4/4    | RL - Imitation learning                         | [Imitation](/cs342-exercises/imitation.ipynb)      | [Slides](/cs342-lectures/lecture20.pdf), [Notebook](/cs342-notebooks/lecture20.ipynb) |
 | 4/6    | RL - Policy gradients, gradient free optim.     | [Imitation](/cs342-exercises/imitation.ipynb)      | [Slides](/cs342-lectures/lecture21.pdf), [Notebook](/cs342-notebooks/lecture21.ipynb) |
-| 4/11   | Sequence - RNN, LSTM, GRU                       | Imitation 2                                        |                                                                                       |
-| 4/13   | Sequence - Temporal conv., WaveNet              | Imitation 2                                        |                                                                                       |
+| 4/11   | Sequence - RNN, LSTM, GRU                       | [Imitation 2](/cs342-exercises/dagger.ipynb)       | [Slides](/cs342-lectures/lecture22.pdf)                                               |
+| 4/13   | Sequence - Temporal conv., WaveNet              | [Imitation 2](/cs342-exercises/dagger.ipynb)       | [Slides](/cs342-lectures/lecture23.pdf), [Notebook](/cs342-notebooks/lec23.zip)       |
 | *4/17* | **HW5 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework5/)                                                       |
 | 4/18   | Special topics                                  | RL                                                 |                                                                                       |
 | 4/20   | Special topics                                  | RL                                                 |                                                                                       |
