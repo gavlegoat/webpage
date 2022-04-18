@@ -63,13 +63,13 @@ up during the semester. The homework due dates will not be moved earlier.
 | 4/11   | Sequence - RNN, LSTM, GRU                       | [Imitation 2](/cs342-exercises/dagger.ipynb)       | [Slides](/cs342-lectures/lecture22.pdf)                                               |
 | 4/13   | Sequence - Temporal conv., WaveNet              | [Imitation 2](/cs342-exercises/dagger.ipynb)       | [Slides](/cs342-lectures/lecture23.pdf), [Notebook](/cs342-notebooks/lec23.zip)       |
 | *4/17* | **HW5 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework5/)                                                       |
-| 4/18   | Special topics                                  | RL                                                 |                                                                                       |
-| 4/20   | Special topics                                  | RL                                                 |                                                                                       |
-| 4/25   | Special topics                                  |                                                    |                                                                                       |
-| 4/27   | Special topics                                  |                                                    |                                                                                       |
+| 4/18   | Special topics - Bias, Fairness, and Ethics     | [RL](/cs342-exercises/rl.ipynb)                    | [Slides](/cs342-lectures/fairness.pdf)                                                |
+| 4/20   | Special topics - Game Playing                   | [RL](/cs342-exercises/rl.ipynb)                    |                                                                                       |
+| 4/25   | Special topics - Generative Models              |                                                    |                                                                                       |
+| 4/27   | Special topics - Safe RL                        |                                                    |                                                                                       |
 | 5/2    | Final presentations                             |                                                    |                                                                                       |
 | 5/4    | Final presentations                             |                                                    |                                                                                       |
-| *5/8*  | **Final project, makeup homework due at 11:59** |                                                    |                                                                                       |
+| *5/8*  | **Final project, makeup homework due at 11:59** |                                                    | [Make-up homework](/cs342/makeup/), [Final project](/cs342/final/)                    |
 
 ## Grading
 
