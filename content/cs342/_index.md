@@ -64,7 +64,7 @@ up during the semester. The homework due dates will not be moved earlier.
 | 4/13   | Sequence - Temporal conv., WaveNet              | [Imitation 2](/cs342-exercises/dagger.ipynb)       | [Slides](/cs342-lectures/lecture23.pdf), [Notebook](/cs342-notebooks/lec23.zip)       |
 | *4/17* | **HW5 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework5/)                                                       |
 | 4/18   | Special topics - Bias, Fairness, and Ethics     | [RL](/cs342-exercises/rl.ipynb)                    | [Slides](/cs342-lectures/fairness.pdf)                                                |
-| 4/20   | Special topics - Game Playing                   | [RL](/cs342-exercises/rl.ipynb)                    |                                                                                       |
+| 4/20   | Special topics - Game Playing                   | [RL](/cs342-exercises/rl.ipynb)                    | [Slides](/cs342-lectures/games.pdf)                                                   |
 | 4/25   | Special topics - Generative Models              |                                                    |                                                                                       |
 | 4/27   | Special topics - Safe RL                        |                                                    |                                                                                       |
 | 5/2    | Final presentations                             |                                                    |                                                                                       |
@@ -93,7 +93,7 @@ late.
 ## Academic Honesty
 
 Homeworks and quizzes are to be done individually. For the final project,
-groups of up to three will be allowed. You are allowed to discuss ideas and
+groups of up to four will be allowed. You are allowed to discuss ideas and
 share data, but you may not share any code. You also may not post solutions to
 any assignments in a place where other people may see them. You are allowed to
 look at publically available online discussions (e.g., StackOverflow) so long
