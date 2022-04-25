@@ -65,7 +65,7 @@ up during the semester. The homework due dates will not be moved earlier.
 | *4/17* | **HW5 is due at 11:59 PM**                      |                                                    | [Assignment](/cs342/homework5/)                                                       |
 | 4/18   | Special topics - Bias, Fairness, and Ethics     | [RL](/cs342-exercises/rl.ipynb)                    | [Slides](/cs342-lectures/fairness.pdf)                                                |
 | 4/20   | Special topics - Game Playing                   | [RL](/cs342-exercises/rl.ipynb)                    | [Slides](/cs342-lectures/games.pdf)                                                   |
-| 4/25   | Special topics - Generative Models              |                                                    |                                                                                       |
+| 4/25   | Special topics - Generative Models              |                                                    | [Slides](/cs342-lectures/generative.pdf)                                              |
 | 4/27   | Special topics - Safe RL                        |                                                    |                                                                                       |
 | 5/2    | Final presentations                             |                                                    |                                                                                       |
 | 5/4    | Final presentations                             |                                                    |                                                                                       |
