@@ -156,7 +156,7 @@ The grading for the final project is broken down as follows:
 
 Once you are ready to submit, create a bundle by running
 
-    python bundle.py homework <eid>
+    python bundle.py <state_agent OR image_agent> <eid>
 
 then submit the resulting zip file on Canvas. Make sure to submit your writeup
 to the appropriate Canvas assignment as well.

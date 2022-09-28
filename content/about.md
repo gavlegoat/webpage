@@ -1,9 +1,15 @@
 ---
 title: "About"
-date: 2019-06-14
+date: 2022-09-15
 ---
 
-I'm a 5<sup>th</sup> year PhD student at [UT Austin](http://www.utexas.edu)'s
+---
+
+**I'm on the job market this year!**
+
+---
+
+I'm a final year PhD student at [UT Austin](http://www.utexas.edu)'s
 [UToPiA](http://utopia.cs.utexas.edu) and Trishul groups, advised by [Isil
 Dillig](http://www.cs.utexas.edu/~isil) and [Swarat
 Chaudhuri](http://www.cs.utexas.edu/~swarat). My research focuses on the

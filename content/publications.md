@@ -3,6 +3,10 @@ title: "Publications"
 date: 2019-06-14T11:06:23-05:00
 ---
 
+[Guiding Safe Exploration with Weakest Preconditions](/papers/spice.pdf). Greg
+Anderson, Swarat Chaudhuri, Isil Dillig. Tool available
+[here](https://github.com/gavlegoat/spice).
+
 [Neurosymbolic Reinforcement Learning with Formally Verified
 Exploration](/papers/revel-neurips2020.pdf). Greg Anderson, Abhinav Verma, Isil
 Dillig, Swarat Chaudhuri. At NeurIPS '20. Tool available
