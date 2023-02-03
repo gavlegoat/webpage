@@ -3,12 +3,6 @@ title: "About"
 date: 2022-09-15
 ---
 
----
-
-**I'm on the job market this year!**
-
----
-
 I'm a final year PhD student at [UT Austin](http://www.utexas.edu)'s
 [UToPiA](http://utopia.cs.utexas.edu) and Trishul groups, advised by [Isil
 Dillig](http://www.cs.utexas.edu/~isil) and [Swarat

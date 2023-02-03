@@ -4,7 +4,7 @@ date: 2019-06-14T11:06:23-05:00
 ---
 
 [Guiding Safe Exploration with Weakest Preconditions](/papers/spice.pdf). Greg
-Anderson, Swarat Chaudhuri, Isil Dillig. Tool available
+Anderson, Swarat Chaudhuri, Isil Dillig. At ICLR '23. Tool available
 [here](https://github.com/gavlegoat/spice).
 
 [Neurosymbolic Reinforcement Learning with Formally Verified
