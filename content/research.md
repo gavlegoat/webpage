@@ -1,16 +1,16 @@
 ---
 title: "Research"
-date: 2019-06-16
+date: 2023-06-09
 ---
 
 My research broadly covers the intersection of programming languages and
 machine learning. In particular, I am most interested in developing techniques
 for proving the safety of systems with machine learning components. My early
-work in this domain has focused on using abstraction refinement to prove local
+work in this domain focused on using abstraction refinement to prove local
 robustness properties ([PLDI'19](/papers/charon-pldi-19.pdf)). More recently I
 have worked on incorporating ideas from PL research to develop a framework for
 deep reinforcement learning with formally guaranteed safety
-([NeurIPS'20](/papers/revel-neurips2020.pdf)).
+([NeurIPS'20](/papers/revel-neurips2020.pdf) and [ICLR'23](/papers/spice.pdf)).
 
 In addition, I have also done some work on using machine learning to improve
 program analysis and program synthesis tools. For example, the aformentioned

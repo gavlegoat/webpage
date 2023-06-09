@@ -10,7 +10,7 @@ paginate = 20
 [params]
     author = "Greg Anderson"
     description = "Greg Anderson personal site"
-    info = "PhD Student at UT Austin"
+    info = "Assistant Professor at Reed College"
     avatarurl = "img/me.jpg"
     hidefooter = true
     hidecredits = false
@@ -28,7 +28,7 @@ paginate = 20
     name = "Email"
     icon = "fa fa-envelope"
     weight = 2
-    url = "mailto:ganderso@cs.utexas.edu"
+    url = "mailto:grega@reed.edu"
 
 [[menu.main]]
     name = "Publications"
@@ -49,7 +49,7 @@ paginate = 20
     url = "/research/"
 
 [[menu.main]]
-    name = "CS342"
+    name = "Teaching"
     weight = 300
     identifier = "cs342"
-    url = "/cs342/"
+    url = "/teaching/"
