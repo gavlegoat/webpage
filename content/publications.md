@@ -4,7 +4,7 @@ date: 2019-06-14T11:06:23-05:00
 ---
 
 [Policy Optimization with Robustness Certificates](/papers/carol.pdf). Chenxi
-Yang, Greg Anderson, Swarat Chaudhuri.
+Yang, Greg Anderson, Swarat Chaudhuri. At SaTML '24.
 
 [Guiding Safe Exploration with Weakest Preconditions](/papers/spice.pdf). Greg
 Anderson, Swarat Chaudhuri, Isil Dillig. At ICLR '23. Tool available
