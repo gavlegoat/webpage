@@ -5,10 +5,15 @@ date: 2021-06-09
 
 # Current Courses
 
-- CSCI 378: Deep Learning
-- CSCI 221: Computer Science II
+- CSCI 121: Computer Science I
+- CSCI 389: Computer Systems
 
 # Past Courses
+
+Spring 2024:
+
+- CSCI 378: Deep Learning
+- CSCI 221: Computer Science II
 
 Fall 2023:
 
