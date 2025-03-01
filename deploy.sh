@@ -1,3 +1,6 @@
+echo "This is an outdated repository: deploy by hand if you really want to"
+exit 1
+
 hugo
 
 cd public
